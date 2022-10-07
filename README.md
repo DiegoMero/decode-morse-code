@@ -1,9 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Decode Morse Code
 
-> Decode Morse Code 
-
+> This Ruby application allows you to enter a message in morse code and decode it.
 
 ## Built With
 
