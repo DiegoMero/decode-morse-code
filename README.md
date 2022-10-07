@@ -1,56 +1,39 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Decode Morse Code
 
-> Description the project.
-
+> This Ruby application allows you to enter a message in morse code and decode it.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+
+- Make sure you have node installed on your local machine.
+- Open your console.
+- Type the following "git clone git@github.com:DiegoMero/decode-morse-code.git".
+- Press ENTER to create your local clone.
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Any code editor like Vscode or Vim.
 
 ## Authors
 
-👤 **Author1**
+👤 **Diego Mero**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@DiegoMero](https://github.com/DiegoMero)
+- Twitter: [@Dimero18](https://twitter.com/Dimero18)
+- LinkedIn: [Diego](https://www.linkedin.com/in/diego-mero/)
 
-👤 **Author2**
+👤 **Tiago Lelinski**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@tiagomarin](https://github.com/tiagomarin)
+- Twitter: [@LelinskiMarin](https://twitter.com/LelinskiMarin)
+- LinkedIn: [Tiago](https://www.linkedin.com/in/tiago-lelinski-marin/)
 
 ## 🤝 Contributing
 
@@ -64,12 +47,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Part of Microverse curriculum
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
