@@ -1,4 +1,4 @@
-message = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
+message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 
 @letters = {
   '.-' => 'A',
@@ -29,11 +29,11 @@ message = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. 
   '--..' => 'Z'
 }
 
-def get_letter (morse_character)
+def get_letter(morse_character)
   @letter = @letters[morse_character]
 end
 
-def get_word (morse_word)
+def get_word(morse_word)
   @word = morse_word.split.map { |element| get_letter(element) }.join
 end
 
@@ -45,4 +45,4 @@ end
 
 print "The morse code '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...' means:  "
 puts sentence_decoder(message)
-puts " "
+puts ' '
